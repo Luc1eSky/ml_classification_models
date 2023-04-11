@@ -1,7 +1,12 @@
-# ml_classification_models
+# Homework Building Classification Models
 Homework for class MSDS-599 - build classifiers using different ML models on a synthetically generated data set
 
-#Homework included the following exercises
+Models include:
+- K-nearest Neighbor
+- Decision Tree Classifiers
+-   Bagging 
+-   Random Forest
+-   Boosting
 
 In the folder is a file called classify_me.csv. The column 'Target' gives the class labels.
 
